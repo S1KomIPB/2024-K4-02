@@ -33,6 +33,8 @@ Projek ini bertujuan untuk mengembangkan perangkat IoT untuk monitoring kandang 
 - Hubungkan modem 4G (hotspot/wifi) sebagai gateway ke internet
 - Akses platform ThingSpeak untuk melihat visualisasi dan analisis data kondisi lingkungan kandang sapi
 
+## Dokumentasi
+Akses untuk seluruh dokumentasi terkait selama kegiatan berlangsung: [Dokumentasi Kegiatan](https://drive.google.com/drive/folders/1wmn0gUooeMQqfw4yue0OKtn7IpGleNr8?usp=drive_link)
 
 ## Tim
 
